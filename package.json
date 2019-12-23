@@ -1,0 +1,15 @@
+{
+  "name": "leaflet.fan",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "description": "draw sectors on the map.",
+  "license": "MIT",
+  "dependencies": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RaynMa/leaflet.fan"
+  },
+  "author": "RaynMa"
+}
